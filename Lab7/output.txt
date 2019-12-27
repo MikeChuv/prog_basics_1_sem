@@ -1,0 +1,4 @@
+Array X of  5 elements
+    1.00     3.00     5.00     7.00     9.00 
+
+Elements are arithmetic progression 
