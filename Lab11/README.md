@@ -49,7 +49,7 @@ not FileExists(ParamStr(1)) (Невозможно открыть файл для
 | 1       | <br>4<br><br>1 2 3 4<br><br>6<br><br>5 1 3 8 5 3<br><br>8<br>5 1 2 6 3 7 9 5 | Array A: <br>1 2 3 4 <br>Arithmetic mean: 2.5<br>Indexes of numbers less than s/2:<br>1 <br><br>Array B:<br>5 1 3 8 5 3 <br>Arithmetic mean: 4.16666666666667<br>Indexes of numbers less than s/2:<br>2 <br><br>Array C:<br>5 1 2 6 3 7 9 5 <br>Arithmetic mean: 4.75<br>Indexes of numbers less than s/2:<br>2 3  |
 
 #### Метод
-Вводим массивы
+Вводим массивы.
 Ищем среднее арифметическое в каждом
 Формируем одномерные массивы с номерами элементов, меньшими, чем половина среднего арифметического
 #### Алгоритм
