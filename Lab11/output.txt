@@ -1,0 +1,17 @@
+Array A:
+1 2 3 4 
+Arithmetic mean: 2.5
+Indexes of numbers less than s/2:
+1 
+
+Array B:
+5 1 3 8 5 3 
+Arithmetic mean: 4.16666666666667
+Indexes of numbers less than s/2:
+2 
+
+Array C:
+5 1 2 6 3 7 9 5 
+Arithmetic mean: 4.75
+Indexes of numbers less than s/2:
+2 3 
