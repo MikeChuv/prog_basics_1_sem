@@ -1,0 +1,7 @@
+Array A of  6 elements
+5 3 4 9 10 11 
+
+Value t = 8
+
+Last element, greater than 1 = 4
+Min = 3

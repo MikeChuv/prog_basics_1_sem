@@ -1,0 +1,6 @@
+Array A of  6 elements
+5 3 5 9 7 3 
+
+Value t = 8
+
+All elements <= than 13
