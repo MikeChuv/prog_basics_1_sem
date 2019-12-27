@@ -1,0 +1,5 @@
+Array X of  7 elements
+    3.00     1.00     5.00     7.00    35.00     3.00     8.00 
+
+Max difference = 28
+Index =  5
